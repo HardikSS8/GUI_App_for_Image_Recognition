@@ -75,6 +75,8 @@ This application will use the trained neural-network model built by using the Ke
 
 ![Screenshot 2020-08-08 at 2 26 51 PM](https://user-images.githubusercontent.com/35401920/89708141-3a03c680-d992-11ea-9b7a-4d10ecede945.png)
 
+<b> Note: As we can see in the results that accuracy of the model is around 90% to predict the correct class of images.</b>
+
 * We can save the trained model and weights in the file to use them anywhere else.
 
 * Finally we can run the python file for predicting the input image given by user.
