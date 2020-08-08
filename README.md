@@ -96,8 +96,8 @@ This application will use the trained neural-network model built by using the Ke
 ### other results: 
 <br />
 
-<img src="https://user-images.githubusercontent.com/35401920/89708412-79331700-d994-11ea-927b-4fbb9c1eea2c.png" width="600">
+<img src="https://user-images.githubusercontent.com/35401920/89708412-79331700-d994-11ea-927b-4fbb9c1eea2c.png" width="500">
 
 <br /> <br />
 
-<img src="https://user-images.githubusercontent.com/35401920/89708450-d9c25400-d994-11ea-8675-b033e70c9e2e.png" width="600">
+<img src="https://user-images.githubusercontent.com/35401920/89708450-d9c25400-d994-11ea-8675-b033e70c9e2e.png" width="500">
